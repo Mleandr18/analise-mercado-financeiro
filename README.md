@@ -8,7 +8,7 @@ O objetivo deste projeto é fornecer uma visão abrangente sobre indicadores de 
 <h2>Estrutura do Projeto</h2>
 O projeto está estruturado em seções distintas, cada uma focada em um grupo particular de indicadores:
 
-<h2>Indicadores de Impulso:<h2> 
+<h2>Indicadores de Impulso:</h2> 
 <li>Esta seção explora indicadores que medem a força ou direção de um movimento de preço, incluindo indicadores como o Índice de Força Relativa (RSI) e o MACD (Convergência/Divergência de Médias Móveis).</li>
 
 <h2>Indicadores de Volume:</h2> 
