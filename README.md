@@ -1,4 +1,5 @@
-Projeto de Análise Técnica no Jupyter Notebook
+<h1>Projeto de Análise Técnica no Jupyter Notebook</h1>
+
 Bem-vindo ao projeto de Análise Técnica no Jupyter Notebook! Neste projeto, exploramos uma variedade de indicadores técnicos com o objetivo de oferecer uma compreensão detalhada de sua aplicação e construção, desde o download das bibliotecas até a geração de gráficos elucidativos.
 
 Objetivo
